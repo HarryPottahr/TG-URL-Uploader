@@ -9,3 +9,5 @@ requests
 tgcrypto
 youtube-dl
 olefile
+python-3.7.2
+
